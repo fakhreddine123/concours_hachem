@@ -1,0 +1,10 @@
+{
+    "name": "localhost/concours",
+    "authors": [
+        {
+            "name": "Nassim BAHRI",
+            "email": "bahri.nassim@gmail.com"
+        }
+    ],
+    "require": {}
+}
